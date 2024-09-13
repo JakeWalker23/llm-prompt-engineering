@@ -23,5 +23,5 @@ It covers enough to get started with llm prompting. In upcoming additions we wil
 
 ### To run:
 ```
-python {file}.py
+python examples/{file}.py
 ```
